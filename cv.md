@@ -17,3 +17,14 @@
     <td>@d.chashnikov@gmail.com</td>
   </tr>
  </table>
+<h2><i>About Myself:</i></h2>
+<pre>
+Орел — не маленькая птаха,
+Орел — герой не знает страха.
+Гнездо его на круче
+Под крышей темной тучи.
+</pre>
+<h2><i>Skills and Proficiency:</i></h2>
+<ul>
+  <li>Adobe Photoshop, 3ds max !</li>
+</ul>
